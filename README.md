@@ -1,2 +1,2 @@
-# Welcome to this BIOS512 repo 
+# BIOS512 Repo
 ## Kelsey Herbst
